@@ -1,4 +1,4 @@
-# XM Cloud Starter Kit (Next JS)
+# Espire XM Cloud Starter Kit (Next JS) 
 
 ## QUICK START
 
